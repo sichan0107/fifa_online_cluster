@@ -1,5 +1,4 @@
 ## FIFA Online Position Clustering
-<hr>
 1. Data Source : 피파온라인 데이터센터
 
 2. Description

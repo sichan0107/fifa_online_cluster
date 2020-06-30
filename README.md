@@ -8,5 +8,5 @@
  - How to : K-means, t-SNE
  
 3. t-SNE Screenshot
- ![image](https://user-images.githubusercontent.com/40975942/86085624-87ab2a80-bada-11ea-8386-4bfe5e0e72c3.png)
+![image](https://user-images.githubusercontent.com/40975942/86085624-87ab2a80-bada-11ea-8386-4bfe5e0e72c3.png)
 

@@ -6,3 +6,7 @@
  - Clusters : Striker, Mid-Field, Defenser
  - Goal : Stat 수치 데이터의 특징(feature)을 잘 반영하여 군집화 & 직관적 시각화
  - How to : K-means, t-SNE
+ 
+3. t-SNE Screenshot
+ ![image](https://user-images.githubusercontent.com/40975942/86085624-87ab2a80-bada-11ea-8386-4bfe5e0e72c3.png)
+
